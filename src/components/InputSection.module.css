@@ -1,0 +1,35 @@
+input {
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  margin-top: 5px;
+  transition: 0.25s;
+  font-size: 1.05rem;
+}
+
+input:hover {
+  background-color: #f3eaf0;
+}
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  background-color: #6f1e51;
+  color: white;
+  transition: 0.25s;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+button:hover {
+  background-color: #ed4c67;
+}
+label {
+  font-size: 1.1rem;
+}

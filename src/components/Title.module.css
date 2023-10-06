@@ -1,0 +1,8 @@
+.page-title {
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #6f1e51;
+  font-size: 4rem;
+}
